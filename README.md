@@ -11,7 +11,6 @@
 
 - Denver had the largest number of votes greatly surpassing the other two counties. They could not compare with Denver’s 82.8 voting percentage and 306,055 votes. 
 
-##The candidates stats were as follows
 - Charles Casper Stockham had a 23.0 voting percentage and 85,213 total votes
    Diana Degette had a 73.8 voting percentage and 272,892 total votes
    Raymon Anthony Doane had a 3.1 voting percentage and 11,606 total votes.
