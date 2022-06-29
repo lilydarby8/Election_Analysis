@@ -2,6 +2,8 @@
 
 ## Purpose and Overview of the Election Analysis
    The purpose of the election analysis was to provide the election commission with the voter turnout for each county, the percentage of votes from each county out of the total vote count, and the county with the highest turnout. Also included in the analysis were the stats of the other candidates and the overall winner of the election. The code effectively analyzes the many rows of data and outputs it to the analysis txt file for an easy read. 
+   
+   ![This is an image](https://github.com/lilydarby8/Election_Analysis/issues/1#issue-1289336243)
 
 ## Election Results
 - The total votes of the election were 369,711.
@@ -20,4 +22,6 @@
 
 ## Election Audit Summary
   The code written to accomplish the analysis of the election data was clear, clean, and universal. The code is not limited to functioning for only one data set because of the use of creating variables to represent the data inside of the csv file. Because of the variables not being specific to only one data set it can be reused to effectively analyze election data sets and provide the election results in a text file that is easy to read with all the desired information. To use this code for other election data sets the file path is the first to change so that the new data set can soon be analyzed. The variables are the next thing to be updated so that the code is in line with the data. From there the strings would need to be updated to be coherent with what is within the data set. For example, in this data set we dealt with “counties”, but in other data sets it might be “states”. The strings would need to reflect the accurate row name. With a few changes this code will run election data sets that conveniently analyze the data and output it to a easy to ready txt file. 
+  
+  
 
