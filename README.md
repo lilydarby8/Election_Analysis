@@ -4,6 +4,7 @@
    The purpose of the election analysis was to provide the election commission with the voter turnout for each county, the percentage of votes from each county out of the total vote count, and the county with the highest turnout. Also included in the analysis were the stats of the other candidates and the overall winner of the election. The code effectively analyzes the many rows of data and outputs it to the analysis txt file for an easy read. 
    
    ![This is an image](https://github.com/lilydarby8/Election_Analysis/issues/1#issue-1289336243)
+   ![This is an image](https://github.com/lilydarby8/Election_Analysis/issues/1#issuecomment-1170523591)
 
 ## Election Results
 - The total votes of the election were 369,711.
